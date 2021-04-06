@@ -17,6 +17,7 @@
 
 <a href="(https://twitter.com/MrAntiseptikk"><img align="left" alt="Thomas Ferney Twitter's Follow" src="https://img.shields.io/twitter/follow/MrAntiseptikk?label=Follow&logo=twitter"></a>
 
+--
 
 ## &#x1f4c8; My GitHub Stats
 
